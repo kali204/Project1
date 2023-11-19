@@ -1,2 +1,2 @@
 # Project1
-Making a project on price detection by image
+Making a project of voice Ai
